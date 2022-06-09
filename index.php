@@ -40,6 +40,12 @@
          <li><a href="punto8.php">Punto 8</a></li>
          <li><a href="punto9.php">Punto 9</a></li>
          <li><a href="punto10.php">Punto 10</a></li>
+         <li><a href="punto11.php">Punto 11</a></li>
+         <li><a href="punto11.php">Punto 18</a></li>
+         <li><a href="punto12.php">Punto 12</a></li>
+         <li><a href="punto13.php">Punto 13</a></li>
+         <li><a href="punto14.php">Punto 14</a></li>
+         <li><a href="punto16.php">Punto 16</a></li>
      </ul>
 </body>
 </html>
