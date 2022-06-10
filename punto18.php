@@ -9,12 +9,7 @@
 <body>
 <?php
   
-  echo=$num[29,5,40,10,35,42,12,22,25,1,3];
-  $num.sort((a,b)=>b-a);
-
-  echo "<p>" .$num. "</p>"; 
-
-
+  
    
    ?>
 </body>

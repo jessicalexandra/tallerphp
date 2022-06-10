@@ -22,7 +22,7 @@
            ];
 
            foreach ($productos as $key => $value) {
-               echo "<p>producto: $key - tipo: $value</p>";
+               echo "<p>producto: $key - marca: $value</p>";
            }
        }
     ?>
